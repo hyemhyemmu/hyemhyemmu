@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi there, I'm Daniel! 👋
 
-<!--
-**hyemhyemmu/hyemhyemmu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer with a love for learning and sharing knowledge. Here you'll find a collection of my projects, contributions, and interests.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎒 I'm currently studying Electrical & Computer Engineering in University of Toronto
+- 🌱 I’m currently learning new technologies and improving my skills in full-stack development.
+- 👯 I’m looking to collaborate on open-source projects and innovative ideas.
+- 🤔 I’m always open to discussions about coding, technology, and best practices.
+- 💬 Ask me about anything related to web development, Python, JavaScript, and more.
+- 📫 How to reach me: [1029mofei@gmail.com](mailto:1029mofei@gmail.com)
+- ⚡ Fun fact: I enjoy solving puzzles and exploring new places.
+
+## Skills
+
+### Languages
+
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+- ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+- ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+- ![RISC-V](https://img.shields.io/badge/RISC--V-3C3C3D?style=flat&logo=riscv&logoColor=white)
+
+
+## Learning CS
+
+Here are some of the courses I'm working on myself:
+
+- [CS61A](https://github.com/hyemhyemmu/learning-CS/tree/28efa8d43475296ab76fb003cc6099c84888b25a/CS61A): A brief description of Project 1.
+- [CS61B](https://github.com/hyemhyemmu/learning-CS/tree/28efa8d43475296ab76fb003cc6099c84888b25a/CS61B): A brief description of Project 2.
+- [CS61C](https://github.com/hyemhyemmu/learning-CS/tree/28efa8d43475296ab76fb003cc6099c84888b25a/CS61C): A brief description of Project 3.
+
+## Contributions
+
+I love contributing to open-source projects. Here are some of my contributions:
+
+- [Contribution 1](https://github.com/someproject/someproject/pull/1): Description of the contribution.
+- [Contribution 2](https://github.com/anotherproject/anotherproject/pull/2): Description of the contribution.
+
+## Let's Connect!
+
+- [LinkedIn](https://www.linkedin.com/in/hyemhyemmu)
+- [Twitter](https://twitter.com/hyemhyemmu)
+- [Email](mailto:email@example.com)
+
+Thanks for visiting my profile! Have a great day! 😊
