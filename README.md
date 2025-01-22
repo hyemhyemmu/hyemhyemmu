@@ -26,9 +26,9 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for learnin
 
 Here are some of the courses I'm working on myself:
 
-- [CS61A](https://github.com/hyemhyemmu/learning-CS/tree/28efa8d43475296ab76fb003cc6099c84888b25a/CS61A): A brief description of Project 1.
-- [CS61B](https://github.com/hyemhyemmu/learning-CS/tree/28efa8d43475296ab76fb003cc6099c84888b25a/CS61B): A brief description of Project 2.
-- [CS61C](https://github.com/hyemhyemmu/learning-CS/tree/28efa8d43475296ab76fb003cc6099c84888b25a/CS61C): A brief description of Project 3.
+- [CS61A](https://github.com/hyemhyemmu/learning-CS/tree/28efa8d43475296ab76fb003cc6099c84888b25a/CS61A): Structure and Interpretation of Computer Programs
+- [CS61B](https://github.com/hyemhyemmu/learning-CS/tree/28efa8d43475296ab76fb003cc6099c84888b25a/CS61B): Data Structure and Algorithms
+- [CS61C](https://github.com/hyemhyemmu/learning-CS/tree/28efa8d43475296ab76fb003cc6099c84888b25a/CS61C): Great Ideas in Computer Architecture
 
 ## Contributions
 
