@@ -19,6 +19,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for learnin
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 - ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 - ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+- ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 - ![RISC-V](https://img.shields.io/badge/RISC--V-3C3C3D?style=flat&logo=riscv&logoColor=white)
 
 
